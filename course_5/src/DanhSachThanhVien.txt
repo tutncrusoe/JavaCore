@@ -1,0 +1,11 @@
+001 # GV # Hoa # 1980 # Sài Gòn # Q. TBình # 2005 # Tự nhiên
+002 # GV # Văn # 1989 # Long An # Q. Chín # 2010 # Xã hội
+003 # GV # Minh # 1990 # Tiền Giang # Quận Sáu # 2015 # Xã hội
+004 # GV # Lan # 1975 # Cà Mau # Quận Mười # 1990 # Tự nhiên
+005 # HS # Hương # 2005 # Biên Hòa # Quận Năm # 5 # 5.5 # 8.5
+006 # HS # Sang # 2006 # Đồng Nai # Quận Nhất # 9.2 # 9.3 # 9.4
+007 # HS # Xanh # 2007 # Bình Thuận # Q. Bình Tân # 4.5 # 5.5 # 4
+008 # HS # Kha # 2005 # Củ Chi # H. Củ Chi # 7.1 # 7 # 7
+009 # HS # Triết # 2006 # Cống Quỳnh # Quận Nhất # 5 # 5.5 # 6
+010 # HS # Đăng # 2006 # Hà Nội # Q. BThạnh # 9.3 # 9.1 # 9.5
+011 # HS # Thanh # 2006 # Đồng Xoài # Quận Nhất # 10 # 7 # 3
