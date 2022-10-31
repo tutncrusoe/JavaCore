@@ -1,1 +1,1 @@
-Java-Core
+OOP, java, exercises
